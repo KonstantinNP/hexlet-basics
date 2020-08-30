@@ -5,6 +5,6 @@
     "license": "MIT",
     "bin": [
         "./sayHi",
-        "./sayBye",
+        "./sayBye"
     ]
 }
