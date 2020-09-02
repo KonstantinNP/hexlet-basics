@@ -1,8 +1,16 @@
 {
-    "name": "Konstantin.P/small-talk-with-hexlet",
+    "name": "puhkn/small-talk-with-hexlet",
+    "authors": [
+        {
+            "name": "Konstantin Pukha",
+            "email": "kosta0683@mail.ru"
+        }
+    ],
     "description": "Small talk with Hexlet",
     "keywords": ["hexlet", "php", "composer"],
     "license": "MIT",
+    "minimum-stability": "stable",
+    "require": {},
     "bin": [
         "./sayHi",
         "./sayBye"
